@@ -1,0 +1,61 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/SOURCES
+/Builds
+/Screens
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+UnityProject/popcorn.htm
+
+# ============ #
+#     FMOD     #
+# ============ #
+Assets/FMODStudioCache.asset
+Assets/StreamingAssets/*.bank
+fmod.log
+fmod_editor.log
+
+FMOD Project/.cache/
+FMOD Project/.unsaved/
+FMOD Project/.user/
+
+# =============== #
+#      Perso      #
+# =============== #
+Assets/Unshared/
+Assets/Unshared.meta
+Unshared/
